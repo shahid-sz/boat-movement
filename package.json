@@ -1,0 +1,22 @@
+{
+  "name": "boat-movement",
+  "version": "1.0.0",
+  "description": "Interview MERN Stack Test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node test/test.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahid-sz/boat-movement.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/shahid-sz/boat-movement/issues"
+  },
+  "homepage": "https://github.com/shahid-sz/boat-movement#readme"
+}
